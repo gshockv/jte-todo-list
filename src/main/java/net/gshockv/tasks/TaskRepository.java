@@ -8,7 +8,7 @@ import java.util.List;
 
 @Repository
 public class TaskRepository {
-  private List<SimpleTask> tasks = new ArrayList<>();
+  private final List<SimpleTask> tasks = new ArrayList<>();
 
   public List<SimpleTask> findAll() {
     return tasks;
