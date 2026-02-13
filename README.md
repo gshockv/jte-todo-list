@@ -7,4 +7,4 @@ JTE (Java Template Engine)
 - HTMX
 - Tailwind CSS
 
-<img width="1246" alt="sugestions-app" src="https://github.com/gshockv/jte-todo-list/blob/main/screenshots/app_screenshot.png" />
+<img width="1246" alt="jte-todo-app" src="https://github.com/gshockv/jte-todo-list/blob/main/screenshots/app_screenshot.png" />
